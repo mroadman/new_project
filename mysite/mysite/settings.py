@@ -145,6 +145,7 @@ INSTALLED_APPS = (
     # Project-specific apps go here
     'myapp',
     'south',
+    'markdown_deux',
     
 )
 
